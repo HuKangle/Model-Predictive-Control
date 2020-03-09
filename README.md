@@ -15,7 +15,7 @@ The motion planning results of the framework are available: [Experiment video](h
 
 **Receding Horizon Control Based Online LTL Motio sPlanning in Partially Infeasible
 Environments**.
-Mingyu CAI, H. Peng and Z. Kan. Journal of Autonomous Robot.[paper link](https://drive.google.com/file/d/1y-fGCU9np0Pt-vxuniRe6Vo35Hp2z505/view?usp=sharing)
+Mingyu Cai, H. Peng and Z. Kan. Journal of Autonomous Robot.[paper link](https://drive.google.com/file/d/1y-fGCU9np0Pt-vxuniRe6Vo35Hp2z505/view?usp=sharing)
 
 ## Features
 
