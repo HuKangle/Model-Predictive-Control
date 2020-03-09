@@ -10,7 +10,7 @@ time-step that optimize the reward-related objectives and finally fulfill the ta
 In the experiment, the neighbor numbers of simulation snapshot provide the time-varying reward 
 (Here we use the random values) which is our optimization objective.
 ![experiment.jpg](experiment.jpg)
-[Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
+The motion planning results of the framework are available: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
 ## Reference
 
 Receding Horizon Control Based Online LTL Motio sPlanning in Partially Infeasible
