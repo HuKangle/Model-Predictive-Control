@@ -27,7 +27,7 @@ Mingyu Cai, H. Peng and Z. Kan. Journal of Autonomous Robot.[paper link](https:/
 - Allow automatically calibrate the mobile robots to obtain its orientation and dynamics.
 
 ## Debugging
-- Install python packages like networkx2.0.ply
-- Add to your PYTHONPATH, to import it in your own project.
-- ltlba_32 and ltlba_64 are executable files complied under Linux, please follow [ltl2ba/README.txt]
-
+* Install python packages like networkx2.0.ply
+* Add to your PYTHONPATH, to import it in your own project.
+* ltlba_32 and ltlba_64 are executable files complied under Linux, please follow [ltl2ba/README.txt]
+* Try [test.py](https://github.com/mingyucai/Model-Predictive-Control/blob/master/path_plan.py)
