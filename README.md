@@ -13,7 +13,7 @@ In the experiment, the neighbor numbers of simulation snapshot provide the time-
 The motion planning results of the framework are available: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
 ## Reference
 
-Receding Horizon Control Based Online LTL Motio sPlanning in Partially Infeasible
+**Receding Horizon Control Based Online LTL Motio sPlanning in Partially Infeasible
 Environments. Mingyu CAI, H. Peng and Z. Kan. Journal of Autonomous Robot.[paper link](https://drive.google.com/file/d/1y-fGCU9np0Pt-vxuniRe6Vo35Hp2z505/view?usp=sharing)
 
 ## Features
