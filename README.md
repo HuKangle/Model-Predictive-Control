@@ -30,4 +30,4 @@ Mingyu Cai, H. Peng and Z. Kan. Journal of Autonomous Robot.[paper link](https:/
 * Install python packages like networkx2.0.ply
 * Add to your PYTHONPATH, to import it in your own project.
 * ltlba_32 and ltlba_64 are executable files complied under Linux, please follow [ltl2ba/README.txt]
-* Try [test.py](https://github.com/mingyucai/Model-Predictive-Control/blob/master/path_plan.py)
+* Try [path_plan.py](https://github.com/mingyucai/Model-Predictive-Control/blob/master/path_plan.py)
