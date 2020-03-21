@@ -6,12 +6,12 @@ logic formula (as the robot’s task). It outputs the predicted trajectories at 
 time-step that optimize the reward-related objectives and finally fulfill the task maximumly.
 
 ![grid.png](grid.png)
-* Simulation Video: [Simulation video](https://www.youtube.com/watch?v=RyRnKXDDH5U)
+* **Simulation Video: [Simulation video](https://www.youtube.com/watch?v=RyRnKXDDH5U)
 
 2. In the experiment, the neighbor numbers of simulation snapshot provide the time-varying reward 
 (Here we use the random values) which is our optimization objective.
 ![experiment.jpg](experiment.jpg)
-* Experiment Video: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
+* **Experiment Video: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
 ## Reference
 
 **Receding Horizon Control Based Online LTL Motio sPlanning in Partially Infeasible
